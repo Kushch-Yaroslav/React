@@ -1,0 +1,40 @@
+.header {
+  width: 100%;
+  background-color: dodgerblue;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.wrapperLogo {
+  display: flex;
+  /* align-items: center; */
+}
+
+.logo {
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 50px;
+  height: 50px;
+}
+
+/* .wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid black;
+  width: 35%;
+}
+
+.avatar {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.logout {
+  padding: 15px 0;
+} */
